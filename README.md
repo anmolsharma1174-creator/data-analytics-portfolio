@@ -18,7 +18,8 @@ Computing Science (Honours) student at the University of Technology Sydney, majo
 
 ## Contact
 
-- LinkedIn: _add link_
-- Tableau Public: _add link_
+- LinkedIn: https://www.linkedin.com/in/anmol-sharma-1b416822a/
+- Tableau Public: https://public.tableau.com/app/profile/anmol.sharma8494
+- 
 
 These projects were completed as part of my degree at UTS and have been adapted for this portfolio.
