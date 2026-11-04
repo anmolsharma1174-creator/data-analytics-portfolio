@@ -2,11 +2,11 @@
 
 Computing Science (Honours) student at the University of Technology Sydney, majoring in Artificial Intelligence and Data Analytics. These projects show how I take raw data from a public or commercial source, clean and verify it, analyse it in Excel and Tableau, and turn the results into findings and recommendations for a specific audience.
 
-| Project | Question | Tools | Audience |
+| Project | Question | Tools | Live version |
 |---|---|---|---|
-| [Australian Trade and Natural Gas Forecast](australian-trade-gas-forecast/) | How did energy prices shape Australia's trade from 2016 to 2025, and what is a realistic gas export target for 2030? | Excel, Tableau | Government and policy decision makers |
-| [BCI Minerals Stock Analysis](bci-minerals-stock-analysis/) | Was BCI Minerals (ASX: BCI) a good investment over FY2025–26, and what should a prospective investor watch? | Excel | Prospective investors |
-| [Wimbledon Singles Finals, 1877–2026](wimbledon-finals-analysis/) | What changed across 150 years of Wimbledon finals? | Excel, Tableau | General tennis audience |
+| [Australian Trade and Natural Gas Forecast](australian-trade-gas-forecast/) | How did energy prices shape Australia's trade from 2016 to 2025, and what is a realistic gas export target for 2030? | Excel, Tableau | [Interactive dashboard](https://public.tableau.com/app/profile/anmol.sharma5862/viz/AustralianTrade20162025HowEnergyPricesShapedTrade/GasDashboard) |
+| [BCI Minerals Stock Analysis](bci-minerals-stock-analysis/) | Was BCI Minerals (ASX: BCI) a good investment over FY2025–26, and what should a prospective investor watch? | Excel | Case study only (licensed data) |
+| [Wimbledon Singles Finals, 1877–2026](wimbledon-finals-analysis/) | What changed across 150 years of Wimbledon finals? | Excel, Tableau | [Interactive visuals](https://public.tableau.com/app/profile/anmol.sharma5862/viz/WimbledonThroughtheYears150YearsofSinglesFinals) |
 
 ## What these projects show
 
@@ -18,8 +18,7 @@ Computing Science (Honours) student at the University of Technology Sydney, majo
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/anmol-sharma-1b416822a/
-- Tableau Public: https://public.tableau.com/app/profile/anmol.sharma5862
-- 
+- LinkedIn: [linkedin.com/in/anmol-sharma-1b416822a](https://www.linkedin.com/in/anmol-sharma-1b416822a/)
+- Tableau Public: [public.tableau.com/app/profile/anmol.sharma5862](https://public.tableau.com/app/profile/anmol.sharma5862)
 
 These projects were completed as part of my degree at UTS and have been adapted for this portfolio.
